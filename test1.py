@@ -8,7 +8,7 @@ This is a temporary script file.
 
 
 
-a = [1,2,3,4,5]
+a = [2,3,4,5]
 b = [1,3,5,6]
 c = [1,2]
 print(list(set(a).intersection(b)))
